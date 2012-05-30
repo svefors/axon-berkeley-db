@@ -1,5 +1,10 @@
 *.class
-
+.DS_STORE
+.idea
+*.iws
+*.iml
+/target/**/*
+/target/*
 # Package Files #
 *.jar
 *.war
